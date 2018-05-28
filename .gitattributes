@@ -1,0 +1,2 @@
+./RawRGB/** filter=lfs diff=lfs merge=lfs -text
+./flowResults/** filter=lfs diff=lfs merge=lfs -text
